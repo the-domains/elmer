@@ -1,0 +1,28 @@
+name: elmer
+favicon: null
+layout_spectrum: 0.6601365893147886
+typography_spectrum: 0.10147835803218186
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7027925022412091
+  lightness: 0.319115849211812
+  saturation: 0.693559707608074
+  rhythmicContrast: 0.9338263680692762
+purpose: []
